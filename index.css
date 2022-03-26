@@ -1,18 +1,18 @@
 #dodger {
-  background-color: white;
+  background-color: lightskyblue;
   height: 20px;
-  position: absolute;
   width: 40px;
+  position: absolute;
 }
 
 #game {
   background-color: #111;
   height: 400px;
+  width: 400px;
   margin: 0 auto;
   overflow: hidden;
   position: relative;
   text-align: center;
-  width: 400px;
 }
 
 #start {
